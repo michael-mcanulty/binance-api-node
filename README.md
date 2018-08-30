@@ -1,14 +1,3 @@
-# binance-api-node [![build](https://img.shields.io/travis/HyperCubeProject/binance-api-node.svg?style=flat-square)](https://travis-ci.org/HyperCubeProject/binance-api-node) [![cover](https://img.shields.io/coveralls/HyperCubeProject/binance-api-node.svg?style=flat-square)](https://coveralls.io/github/HyperCubeProject/binance-api-node) [![bnb](https://img.shields.io/badge/binance-winner-yellow.svg?style=flat-square)](https://github.com/binance-exchange/binance-api-node)
-
-> A complete API wrapper for the [Binance](https://binance.com) API.
-
-Note: This wrapper uses Promises, if they are not supported in your environment, you might
-want to add [a polyfill](https://github.com/stefanpenner/es6-promise) for them.
-
-### Installation
-
-    yarn add binance-api-node
-
 ### Getting started
 
 Import the module and create a new client. Passing api keys is optional only if
